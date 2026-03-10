@@ -18,4 +18,4 @@ Hi im Princess 👋
 ---
 [![](https://visitcount.itsvg.in/api?id=jellalab&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 📫 Connect With Me
-<br>LinkedIn: https://github.com/jellalab<br>Email: Princessvictoriajella gmail.com<br>Thanks for visiting my profile!
+<br>LinkedIn: https://github.com/jellalab<br>Email: Princessvictoriajella@gmail.com<br>Thanks for visiting my profile!
