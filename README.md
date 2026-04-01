@@ -1,5 +1,5 @@
-# Welcome to Jellalab by Princess Jella 💫 
-Hi im Princess 👋 
+# Jellalab by Princess Jella 💫 
+Hi im Princess 
 <br>I am a Data Science Student<br>Interested in Human Informatics & Behavioral Data<br>Exploring the intersection of data, technology, and fashion<br>I enjoy using data to understand human behavior, discover patterns, and build tools that create meaningful insights.
 
 ## 🌐 Socials:
